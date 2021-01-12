@@ -26,9 +26,6 @@ setup(
         "Natural Language :: English",
         "Operating System :: OS Independent",
         "Programming Language :: Python :: 3.8",
-        "Topic :: Security",
-        "Topic :: System :: Shells",
-        "Topic :: System :: Networking"
     ],
  
     entry_points = {

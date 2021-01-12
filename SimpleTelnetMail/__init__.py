@@ -3,7 +3,7 @@
 
 ###################
 #    This package implement a simple SMTP client with Telnet.
-#    Copyright (C) 2020  Maurice Lambert
+#    Copyright (C) 2020, 2021  Maurice Lambert
 
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by
@@ -20,17 +20,17 @@
 ###################
 
 """
-	This package implement a simple SMTP client with Telnet.
+    This package implement a simple SMTP client with Telnet.
 """
 
-__version__ = "0.0.1"
+__version__ = "0.1.1"
 
 __all__ = [
-	"TelnetMail", "send"
+    "TelnetMail", "send"
 ]
 
 print("""
-SimpleTelnetMail  Copyright (C) 2020  Maurice Lambert
+SimpleTelnetMail  Copyright (C) 2020, 2021  Maurice Lambert
 This program comes with ABSOLUTELY NO WARRANTY.
 This is free software, and you are welcome to redistribute it
 under certain conditions.
